@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[Click aqui para abrir o HTML](https://mirandaagab.github.io/testest/Arvores-de-Decisao-no-R.html)
+
 link: https://mirandaagab.github.io/testest/
 
 You can use the [editor on GitHub](https://github.com/MirandaAGab/testest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
